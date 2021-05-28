@@ -49,3 +49,16 @@ C:\Users\Ali Mahmmed\source\repos\DeliverySystem\DeliverySystem\bin\Debug\System
 C:\Users\Ali Mahmmed\source\repos\DeliverySystem\DeliverySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Ali Mahmmed\source\repos\DeliverySystem\DeliverySystem\obj\x86\Debug\DeliverySystem.PL.Main.FRM_Receipts.resources
 C:\Users\Ali Mahmmed\source\repos\DeliverySystem\DeliverySystem\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+D:\SADCO\GitHub\delivery\DeliverySystem\obj\x86\Debug\DeliverySystem.csprojAssemblyReference.cache
+D:\SADCO\GitHub\delivery\DeliverySystem\obj\x86\Debug\DeliverySystem.PL.BasicFiles.FRM_States.resources
+D:\SADCO\GitHub\delivery\DeliverySystem\obj\x86\Debug\DeliverySystem.PL.BasicFiles.FRM_UserProfile.resources
+D:\SADCO\GitHub\delivery\DeliverySystem\obj\x86\Debug\DeliverySystem.PL.BasicFiles.FRM_UserRole.resources
+D:\SADCO\GitHub\delivery\DeliverySystem\obj\x86\Debug\DeliverySystem.PL.Main.FRM_BasicFiles.resources
+D:\SADCO\GitHub\delivery\DeliverySystem\obj\x86\Debug\DeliverySystem.FRM_Login.resources
+D:\SADCO\GitHub\delivery\DeliverySystem\obj\x86\Debug\DeliverySystem.PL.Main.FRM_MainForm.resources
+D:\SADCO\GitHub\delivery\DeliverySystem\obj\x86\Debug\DeliverySystem.PL.Main.FRM_Receipts.resources
+D:\SADCO\GitHub\delivery\DeliverySystem\obj\x86\Debug\DeliverySystem.Properties.Resources.resources
+D:\SADCO\GitHub\delivery\DeliverySystem\obj\x86\Debug\DeliverySystem.csproj.GenerateResource.cache
+D:\SADCO\GitHub\delivery\DeliverySystem\obj\x86\Debug\DeliverySystem.exe.licenses
+D:\SADCO\GitHub\delivery\DeliverySystem\obj\x86\Debug\DeliverySystem.exe
+D:\SADCO\GitHub\delivery\DeliverySystem\obj\x86\Debug\DeliverySystem.pdb
